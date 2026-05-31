@@ -1,4 +1,5 @@
 # Move-coffee
+![Image alt](https://github.com/Ahka2004/Move-coffee/raw/main/1.jpg)
 
 'Move coffee'. Мини-приложение для удержания компьютера в активном режиме.
 это происходит засчет бесконечного движения курсора каждые 5 секунд. 
